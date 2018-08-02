@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+	
+	<property>
+		<name>BUFFER_SIZE</name>
+		<value>20480</value>
+	</property>>
+
+</configuration>
