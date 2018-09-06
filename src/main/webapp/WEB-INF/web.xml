@@ -10,7 +10,7 @@
 
 	<servlet>
 		<servlet-name>DownloadServer_SZWG</servlet-name>
-		<servlet-class>com.baidu.xbudata.DownloadServer</servlet-class>
+		<servlet-class>com.github.linary.hadoop.DownloadServer</servlet-class>
 
 		<init-param>
 			<param-name>HDFS_PATH</param-name>

@@ -1,4 +1,7 @@
-package com.baidu.xbudata;
+/*
+ * Copyright (C) 2018 Baidu, Inc. All Rights Reserved.
+ */
+package com.github.linary.hadoop;
 
 import java.io.Closeable;
 import java.io.IOException;
